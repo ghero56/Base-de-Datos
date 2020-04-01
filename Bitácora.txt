@@ -1,1 +1,2 @@
 Este documento lleva el registro de los cambios efectuados en las primeras pruebas de GitHub
+Prueba1: Añadir texto desde atom a un archivo del repositorio
