@@ -2,5 +2,13 @@
 Este documento lleva el registro de los cambios efectuados en las primeras pruebas de GitHub
 Prueba1: Añadir texto desde atom a un archivo del repositorio
 -----------------------------------------------------------------
-prueba2: Sea añaden archivos teoricos para hacer las bases del proyecto
+prueba2: Se añaden archivos teoricos para hacer las bases del proyecto
+-----------------------------------------------------------------
+prueba3: Se juntan los archivos en carpetas separadas y se actualizan README y Bitacora
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
 -----------------------------------------------------------------
