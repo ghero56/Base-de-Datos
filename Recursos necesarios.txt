@@ -1,8 +1,16 @@
-MySQL
-Python
-Interfaz Grafica en Python
-conexion entre Python y MySQL
-Servidor con MySQL
-Aplicaciones moviles con Python
+ºGit
+
+ºMySQL
+
+ºPython
+	->Interfaz Grafica en Python
+
+ºconexion entre Python y MySQL
+	->Servidor con MySQL
+		->PHP
+			->HTML
+
+ºAplicaciones moviles con Python
+	->Java
 
 
