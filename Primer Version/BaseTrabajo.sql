@@ -8,9 +8,13 @@ CREATE TABLE PrimeraEtapa (
     Municipio varchar (30),
     Adeudo int (7),
     Pago int (7),
-    AdeudoPc int (7),
+    AdeudoPc int (7), -- Resta de los dos anteriores
     FSuscrip varchar (20),
-    FPago varchar(20)
+    FPago varchar(20),
+    Interes10 int (14), -- Interes al 10 %
+    Interes3 int (14), -- Interes al 3 %
+    AdeMInte10 int (14), -- Adeudo+Interes al 10 %
+    AdeMInte3 int (14) -- Adeudo+Interes al 3 %
 );
 
 CREATE TABLE SegundaEtapa (
