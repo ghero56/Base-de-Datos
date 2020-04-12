@@ -40,3 +40,7 @@ CREATE TABLE TerceraEtapa (
     Sentencia varchar (90),
     Incidente varchar (1)
 );
+
+alter table PrimeraEtapa
+    add constraint Pk_Folio
+primary key (Folio);
