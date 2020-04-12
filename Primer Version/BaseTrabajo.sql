@@ -8,13 +8,13 @@ CREATE TABLE PrimeraEtapa (
     Municipio varchar (30),
     Adeudo int (7),
     Pago int (7),
-    AdeudoPc int (7), -- Resta de los dos anteriores
+    AdeudoPc int (7),
     FSuscrip varchar (20),
     FPago varchar(20),
-    Interes10 int (14), -- Interes al 10 %
-    Interes3 int (14), -- Interes al 3 %
-    AdeMInte10 int (14), -- Adeudo+Interes al 10 %
-    AdeMInte3 int (14) -- Adeudo+Interes al 3 %
+    Interes10 int (14),
+    Interes3 int (14),
+    AdeMInte10 int (14),
+    AdeMInte3 int (14)
 );
 
 CREATE TABLE SegundaEtapa (
@@ -23,13 +23,13 @@ CREATE TABLE SegundaEtapa (
     FechaRequerimiento varchar (20),
     Cedula varchar (1),
     Oposicion varchar (1),
-    ComenOposicion varchar (90), --- en caso de ser falso
+    ComenOposicion varchar (90),
     CitaFP varchar (20),
     Oficio varchar (1),
     Embargo int (4),
-    ComenEmbargo varchar (90), ---dependiendo lo que elija en el anterior
+    ComenEmbargo varchar (90),
     Emplazado varchar (1),
-    Dinero int (7) ---sera alguno de estos 3
+    Dinero int (7)
 );
 
 CREATE TABLE TerceraEtapa (

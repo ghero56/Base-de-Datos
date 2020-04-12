@@ -1,5 +1,9 @@
 links
 
+python -> https://www.python.org/ftp/python/3.8.2/python-3.8.2.exe
+
 descargar xampp -> https://www.apachefriends.org/es/index.html
 
 mysql + python3 -> https://www.youtube.com/watch?v=Btlnfhh-Gac
+
+mysql to server -> https://www.youtube.com/watch?v=h29jP4DNusA
