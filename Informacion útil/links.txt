@@ -1,3 +1,5 @@
 links
 
+descargar xampp -> https://www.apachefriends.org/es/index.html
+
 mysql + python3 -> https://www.youtube.com/watch?v=Btlnfhh-Gac
