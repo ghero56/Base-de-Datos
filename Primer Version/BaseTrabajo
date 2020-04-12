@@ -1,14 +1,13 @@
 create table PrimeraEtapa (
-Origen varchar (50),
-Polisa number (50),
-Lista number (50),
-Deudor varchar (50),
-Direccion varchar (90),
-Municipio varchar (90),
-Adeudo number (50),
-Pago number (50),
-AdeudoPc number (50),
-FSuscrip varchar (30),
-FPago varchar(30)
+    Origen varchar (50),
+    Polisa number (50),
+    Lista number (50),
+    Deudor varchar (50),
+    Direccion varchar (90),
+    Municipio varchar (90),
+    Adeudo number (50),
+    Pago number (50),
+    AdeudoPc number (50),
+    FSuscrip varchar (30),
+    FPago varchar(30)
 );
-IntMor
