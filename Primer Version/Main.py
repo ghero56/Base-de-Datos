@@ -1,7 +1,10 @@
+import Interfaz
+import SQL
 import os
+import Keifrado
 # estáticas
 DATOS = [['FOLIO','CLIENTE','CONVENIO','CONCEPTO','DEUDOR','PAGOS FECHADOS','PAGO TOTAL ($)','PAGO PARCIAL ($)','ADEUDO PARCIAL','OBSERVACIONES','DOMICILIO','PROCEDIMIENTO JUDICIAL (Y/N)','JUZGADO','EXPEDIENTE','FECHA DE REQUERIMIENTO','FECHA DE FUERZA PUBLICA','EMBARGO','FECHA DE SENTENCIA']]
-CON = 'root'
+CON = '' # variable contraseña
 
 # funciones
 def Menu():
