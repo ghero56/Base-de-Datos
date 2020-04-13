@@ -4,6 +4,9 @@ python -> https://www.python.org/ftp/python/3.8.2/python-3.8.2.exe
 
 descargar xampp -> https://www.apachefriends.org/es/index.html
 
+curso python de pildorasinformaticas -> https://www.youtube.com/watch?v=G2FCfQj-9ig&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS
+    // lo que nos interesa son de 19 al 22 y del 41 al 66
+
 mysql + python3 -> https://www.youtube.com/watch?v=Btlnfhh-Gac
 
 mysql to server -> https://www.youtube.com/watch?v=h29jP4DNusA
