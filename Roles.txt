@@ -1,0 +1,13 @@
+-----------------------------------------------------------------
+Axel:
+	Base de datos y conexion python <-> sql
+	Base de datos servidor sin php
+-----------------------------------------------------------------
+David:
+	Interfaz grafica del Index
+	Escribir datos
+-----------------------------------------------------------------
+Fernando:
+	Aplicación Móvil
+	Jerarquización de cuentas de usuario
+-----------------------------------------------------------------
