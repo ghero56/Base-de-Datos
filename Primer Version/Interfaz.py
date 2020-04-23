@@ -1,7 +1,7 @@
 from tkinter import *
 
 # creacion de clases para la Interfaz
-root = tk()
+root = Tk()
 MainFrame = Frame()
 
 
