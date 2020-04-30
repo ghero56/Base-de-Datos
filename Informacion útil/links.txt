@@ -12,3 +12,5 @@ mysql + python3 -> https://www.youtube.com/watch?v=Btlnfhh-Gac
 curso python + cualquier base de datos -> https://www.youtube.com/watch?v=ZJuVQ9jUg-A
 
 mysql to server -> https://www.youtube.com/watch?v=h29jP4DNusA
+
+Crear ejecutables en python -> https://www.youtube.com/watch?v=Vr9vl0qlggE

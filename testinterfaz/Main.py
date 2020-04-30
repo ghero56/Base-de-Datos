@@ -1,6 +1,8 @@
 import os
 from tkinter import *
 
+#**************************Iniciar interfaz*************************#
+
 def iniciar():
     # raiz
     root = Tk()

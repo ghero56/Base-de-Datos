@@ -1,16 +1,14 @@
-ºGit
+ºGit [TODOS]
 
-ºMySQL
+ºMySQL [AXEL]
 
-ºPython
+ºPython [DAVID]
 	->Interfaz Grafica en Python
 
-ºconexion entre Python y MySQL
+ºconexion entre Python y MySQL [FERNANDO]
 	->Servidor con MySQL
 		->PHP
 			->HTML
 
-ºAplicaciones moviles con Python
+ºAplicaciones moviles con Python [TODOS]
 	->Java
-
-
