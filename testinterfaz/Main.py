@@ -4,12 +4,12 @@ from tkinter import *
 #**************************Iniciar interfaz*************************#
 
 def iniciar():
-    # raiz
+    # Raiz
     root = Tk()
     root.title("Genesis - Sesion Iniciada")
     root.config(width=600,heigh=400)
 
-    # frame principal
+    # Frame Principal
     MainFrame = Frame(root)
     MainFrame.pack()
     MainFrame.config(width=600,heigh=400)

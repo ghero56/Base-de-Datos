@@ -12,3 +12,5 @@
 
 ºAplicaciones moviles con Python [TODOS]
 	->Java
+
+Estudiar el manual de apple y google material
