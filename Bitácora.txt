@@ -6,6 +6,8 @@ prueba2: Se añaden archivos teoricos para hacer las bases del proyecto
 -----------------------------------------------------------------
 prueba3: Se juntan los archivos en carpetas separadas y se actualizan README y Bitacora
 -----------------------------------------------------------------
+prueba4: Se descarta el fin original del proyecto y se conduce por un nuevo camino
+         para venderla en linea.
 -----------------------------------------------------------------
 -----------------------------------------------------------------
 -----------------------------------------------------------------

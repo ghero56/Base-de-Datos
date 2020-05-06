@@ -15,4 +15,6 @@ mysql to server -> https://www.youtube.com/watch?v=h29jP4DNusA
 
 Crear ejecutables en python -> https://www.youtube.com/watch?v=Vr9vl0qlggE
 
+ejecutable en python con datos externos -> https://www.youtube.com/watch?v=OzR2mfpbjYI
+
 manual apple -> https://developer.apple.com/design/human-interface-guidelines/
